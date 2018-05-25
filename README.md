@@ -8,3 +8,6 @@ python爬虫实战
 
 - 知乎模拟登录
 文档：https://www.jianshu.com/p/c623db47ca18
+
+- 博客园自动发帖
+文档：https://www.jianshu.com/p/c23b9c37e6ae
