@@ -11,3 +11,6 @@ python爬虫实战
 
 - 博客园自动发帖
 文档：https://www.jianshu.com/p/c23b9c37e6ae
+
+- 新浪微博
+文档：https://www.jianshu.com/p/2557882c5814
